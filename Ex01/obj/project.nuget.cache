@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKRbS1cBf9ppuBT+z2besmDu5JH8RSefQZQ3l+LYrKwWyB5B521rxjTVQnDJK6cHpsAFm1swiQTGjkbpbKpvbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davi-\\Documents\\workspace\\Backend C#\\Exercicios03\\Ex01\\Ex01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davi-\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
